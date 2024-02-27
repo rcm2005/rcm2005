@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Mattos</h1>
 <h3 align="center">A passionate Machine Leaning student and a C++ enjoyer</h3>
 
-&nbsp&nbsp&nbsp&nbsp ![Pixelart GIF - Pixelart - Discover   Share GIFs](https://github.com/rcm2005/rcm2005/assets/68041167/ea113ced-d36d-43bb-865b-4e4c2ad3479b)
+                                   ![Pixelart GIF - Pixelart - Discover   Share GIFs](https://github.com/rcm2005/rcm2005/assets/68041167/ea113ced-d36d-43bb-865b-4e4c2ad3479b)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rcm2005&label=Profile%20views&color=0e75b6&style=flat" alt="rcm2005" /> </p>
