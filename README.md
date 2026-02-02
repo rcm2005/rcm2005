@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Mattos</h1>
-<h3 align="center">>A passionate Machine Leaning student and a C++ enjoyer</h3>
+<h3 align="center">>A passionate Machine Leaning student and a C# enjoyer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rcm2005&label=Profile%20views&color=0e75b6&style=flat" alt="rcm2005" /> </p>
 
